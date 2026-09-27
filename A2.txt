@@ -10,3 +10,15 @@ Welcome to new Branch code
 new code for A2
 New line for A2
 Good Laughter code
+
+
+*** Merge Conflict Topic *******
+
+A
+B
+C
+D
+ E
+ F
+ G
+ H
