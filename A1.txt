@@ -4,3 +4,13 @@ haleluehya2
 I Love my GOD
 I'm His true disciple
 Let's Go to Him.
+
+
+#### New Develop Branch create #####
+git checkout -b develpBranch 
+
+add codes
+git add*
+git status
+git commit -m "ready to push"
+git push origin develpBranch
